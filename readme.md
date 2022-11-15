@@ -32,6 +32,6 @@ Database of QSL managers: https://www.okdxf.eu/index.php/databaze-qsl-manazeru
 
 ## TODO
 
-- resolve logic for one callsign with multiple manager by different date (e.g. use od not use QSO date for match)
+- resolve logic for one callsign with multiple manager by different date (e.g. use or not use QSO date for match)
 - add switch for QSL_SENT status
 - clean-up messy code
