@@ -2,7 +2,7 @@
 
 # ADIF to VIA file decorator
 
-Simple tool to append QSL_VIA manager to ADIF with your QSO.
+Simple tool to append QSL_VIA manager to ADIF to your QSO.
 Database of QSL managers: https://www.okdxf.eu/index.php/databaze-qsl-manazeru
 
 *disclaimer:* this is raw prototype-like project, without further ambitions for fine-tuning and code quality improvements
